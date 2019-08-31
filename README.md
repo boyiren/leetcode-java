@@ -1,4 +1,4 @@
-#LeetCode Java 版
+# LeetCode Java 版
 
 记录平时自己刷的题目。
 
