@@ -14,6 +14,7 @@
 
     <modules>
         <module>array</module>
+        <module>linkedlist</module>
     </modules>
 
     <properties>

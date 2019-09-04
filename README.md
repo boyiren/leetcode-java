@@ -8,3 +8,4 @@
 - 写测试用例
 
 1. two sum ✔
+2. add two numbers ✔
